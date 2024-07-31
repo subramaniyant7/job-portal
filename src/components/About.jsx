@@ -7,6 +7,7 @@ export default function About() {
         <div
           className="single-slider section-overly slider-height2 d-flex align-items-center"
           data-background="assets/img/hero/about.jpg"
+          style={{ backgroundImage: `url("/assets/img/hero/about.jpg")` }}
         >
           <div className="container">
             <div className="row">
@@ -42,7 +43,7 @@ export default function About() {
                     mollit aboru. temnthp incididbnt ut labore mollit anim
                     laborum suis aute.
                   </p>
-                  <a href="about.html" className="btn post-btn">
+                  <a href="#" className="btn post-btn">
                     Post a job
                   </a>
                 </div>
@@ -245,7 +246,7 @@ export default function About() {
                   <div className="blog-cap">
                     <p>| Properties</p>
                     <h3>
-                      <a href="single-blog.html">
+                      <a href="#">
                         Footprints in Time is perfect House in Kurashiki
                       </a>
                     </h3>
@@ -270,7 +271,7 @@ export default function About() {
                   <div className="blog-cap">
                     <p>| Properties</p>
                     <h3>
-                      <a href="single-blog.html">
+                      <a href="#">
                         Footprints in Time is perfect House in Kurashiki
                       </a>
                     </h3>

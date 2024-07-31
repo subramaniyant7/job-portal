@@ -14,6 +14,7 @@ export default function JobDetails() {
         <div
           className="single-slider section-overly slider-height2 d-flex align-items-center"
           data-background="assets/img/hero/about.jpg"
+          style={{ backgroundImage: `url("/assets/img/hero/about.jpg")` }}
         >
           <div className="container">
             <div className="row">
